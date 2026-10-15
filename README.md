@@ -1,6 +1,9 @@
 # Amazon Analysis
 
 ### Project overview:
+E-commerce cancellations — Data-driven product decisions
+Demonstrates SQL, BI dashboards, KPI analysis, segmentation and evidence-based recommendations.
+
 An end-to-end product analytics project analyzing 128K+ Amazon India fashion order records to understand product performance, customer purchasing behavior, cancellations, and operational issues. The project uses SQL and Tablue to transform raw transactional data into actionable product insights, identify key business problems, perform root-cause analysis, and prioritize recommendations to improve sales performance and reduce order cancellations.
 
 
